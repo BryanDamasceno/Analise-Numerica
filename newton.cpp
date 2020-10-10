@@ -1,5 +1,5 @@
 /*========================== Calculadora de Método de Newton ========================= */
-//Autor: Bryan Damasceno 
+//Autor: Bryan Azevedo 
 //Data: 09/2020
 
 
